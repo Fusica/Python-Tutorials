@@ -11,3 +11,9 @@
 #     print("Weird")
 # elif n % 2 == 0 and n > 20:
 #     print(" Not Weird")
+
+n = int(input())
+result = ""
+for index in range(n):
+    result = result + str(index + 1)
+print(result)
