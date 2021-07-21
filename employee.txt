@@ -1,5 +1,7 @@
-Jim
-Dwight
-Pam
-Michael
-Oscar
+Jim - a
+Dwight - b
+Pam - c
+Michael - d
+Oscar - e
+Toby - f
+Kelly - g

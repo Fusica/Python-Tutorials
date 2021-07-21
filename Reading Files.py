@@ -9,6 +9,5 @@ employee_file = open("employee.txt", "r")
 for line in employee_file:
     print(line)
 
-
 employee_file.close()
 
